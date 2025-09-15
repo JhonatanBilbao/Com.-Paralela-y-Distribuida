@@ -209,7 +209,7 @@ void printValgrindInstructions() {
     cout << "\n4. Interfaz grfica (si disponible):" << endl;
     cout << "   kcachegrind cachegrind.out.XXXXX" << endl;
     
-    cout << "\nMétricas importantes a observar:" << endl;
+    cout << "\nMetricas importantes a observar:" << endl;
     cout << "I1 misses: Fallos en cache de instrucciones L1" << endl;
     cout << "D1 misses: Fallos en cache de datos L1" << endl;
     cout << "LL misses: Fallos en ultimo nivel de cache" << endl;
